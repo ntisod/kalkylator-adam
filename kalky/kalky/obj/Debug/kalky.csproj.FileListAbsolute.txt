@@ -1,0 +1,14 @@
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.csprojAssemblyReference.cache
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\MainWindow.g.cs
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\App.g.cs
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky_MarkupCompile.cache
+C:\Users\adam.nasser1\source\repos\kalky\kalky\bin\Debug\kalky.exe.config
+C:\Users\adam.nasser1\source\repos\kalky\kalky\bin\Debug\kalky.exe
+C:\Users\adam.nasser1\source\repos\kalky\kalky\bin\Debug\kalky.pdb
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\MainWindow.baml
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.g.resources
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.Properties.Resources.resources
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.csproj.GenerateResource.cache
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.csproj.CoreCompileInputs.cache
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.exe
+C:\Users\adam.nasser1\source\repos\kalky\kalky\obj\Debug\kalky.pdb
